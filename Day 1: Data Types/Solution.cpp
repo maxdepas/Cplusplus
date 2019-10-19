@@ -10,8 +10,8 @@ int main() {
     string s = "HackerRank ";
 
     // Declare second integer, double, and String variables.
-    int i_2;
-    double d_2;
+    int i_2;  // 12
+    double d_2; // 4.0
     string s_2; // "is the best place to learn and practice coding!";
 
     // Read and save an integer, double, and String to your variables.
