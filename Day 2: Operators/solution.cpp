@@ -9,7 +9,6 @@ void solve(double meal_cost, int tip_percent, int tax_percent) {
 
     int total_cost = (int) round(tip + tax + meal_cost);
     cout<<total_cost;
-
 }
 
 int main()
